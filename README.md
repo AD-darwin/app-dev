@@ -26,7 +26,7 @@ Here are some of my favorite anime series:
 - **[Blue Box](https://www.bing.com/videos/riverview/relatedvideo?q=Blue+box&&mid=97E2D27670071FD39BC097E2D27670071FD39BC0&FORM=VCGVRP)**: A charming blend of romance and sports, with an endearing cast of characters.
    
  <p align="center">
-    <img src="https://example.com/frieren.jpg" alt="" width="300">
+    <img src="https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/bcc213e8825420a85790049366d409fd.jpg" alt="" width="300">
   </p> 
 
 - **[Frieren: Beyond Journey's End](https://www.crunchyroll.com/watch/G7PU4MZ1G/the-journeys-end)**: A contemplative journey through fantasy and the meaning of friendship.  
