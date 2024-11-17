@@ -7,8 +7,10 @@ My first repository.
 
 Here are some of my favorite anime series:
 
-- **[Oregairu](https://www.bilibili.tv/play/35368)**: A series about social isolation, relationships, and personal growth.  
-  ![Oregairu Image](https://wallpapercave.com/wp/wp2137425.jpg)
+- **[Oregairu](https://www.bilibili.tv/play/35368)**: A series about social isolation, relationships, and personal growth.
+  <p align="center">
+    <img src="https://wallpapercave.com/wp/wp2137425.jpg" alt="Oregairu Image" width="300">
+  </p> 
 
 - **[Steins;Gate](https://www.bilibili.tv/play/37207))**: A thrilling exploration of time travel, filled with suspense and emotional depth.  
   ![Steins;Gate Image](https://th.bing.com/th/id/OIP.tXdOM68np3h3jJKUd4JXqwHaFj?rs=1&pid=ImgDetMain)
