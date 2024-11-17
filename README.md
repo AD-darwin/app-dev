@@ -10,18 +10,21 @@ Here are some of my favorite anime series:
  <p align="center">
     <img src="https://wallpapercave.com/wp/wp2137425.jpg" alt="" width="300">
   </p> 
+  
 - **[Oregairu](https://www.bilibili.tv/play/35368)**: A series about social isolation, relationships, and personal growth.
 
  <p align="center">
     <img src="https://th.bing.com/th/id/OIP.tXdOM68np3h3jJKUd4JXqwHaFj?rs=1&pid=ImgDetMain" alt="" width="300">
   </p> 
-- **[Steins;Gate](https://www.bilibili.tv/play/37207))**: A thrilling exploration of time travel, filled with suspense and emotional depth.  
+  
+- **[Steins;Gate](https://www.bilibili.tv/play/37207)**: A thrilling exploration of time travel, filled with suspense and emotional depth.  
 
  <p align="center">
     <img src="https://static.animecorner.me/2023/10/1697656846-58794-1024x576.jpg" alt="" width="300">
   </p> 
 
-- **[Blue Box](https://www.bing.com/videos/riverview/relatedvideo?q=Blue+box&&mid=97E2D27670071FD39BC097E2D27670071FD39BC0&FORM=VCGVRP)**: A charming blend of romance and sports, with an endearing cast of characters.  
+- **[Blue Box](https://www.bing.com/videos/riverview/relatedvideo?q=Blue+box&&mid=97E2D27670071FD39BC097E2D27670071FD39BC0&FORM=VCGVRP)**: A charming blend of romance and sports, with an endearing cast of characters.
+   
  <p align="center">
     <img src="https://example.com/frieren.jpg](https://example.com/frieren.jpg" alt="" width="300">
   </p> 
@@ -39,7 +42,7 @@ Some of my favorite anime movies are:
     <img src="https://pic-bstarstatic.akamaized.net/ugc/73a1b8d052f79acf2cae77f42809b0b1.jpg@720w_405h_1e_1c_90q.webp" alt="" width="300">
   </p> 
 
-2. **[Fireworks]((https://www.bilibili.tv/en/video/2043797196?bstar_from=bstar-web.homepage.recommend.all))**: A visually artistic exploration of relationships and the choices we make.  
+2. **[Fireworks](https://www.bilibili.tv/en/video/2043797196?bstar_from=bstar-web.homepage.recommend.all)**: A visually artistic exploration of relationships and the choices we make.  
  <p align="center">
     <img src="https://pic-bstarstatic.akamaized.net/ugc/c6c34a495848d3145de7c7fa77514d24.jpg@720w_405h_1e_1c_90q.webp" alt="" width="300">
   </p> 
